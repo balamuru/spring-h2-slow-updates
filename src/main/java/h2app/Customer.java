@@ -9,8 +9,8 @@ public class Customer {
     public Customer(long id, String firstName, String lastName, boolean valid) {
         this.id = id;
         this.firstName = firstName;
-        this.valid = valid;
         this.lastName = lastName;
+        this.valid = valid;
 
     }
 
