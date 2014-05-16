@@ -1,0 +1,1 @@
+This app is for benchmarking H2 database performance
